@@ -8,5 +8,4 @@
 
 # Wyniki działania
 NONE
-})
 
